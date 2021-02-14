@@ -1,2 +1,2 @@
 # Yatzy-Java8-Refactoring-YO
-Here's my suggestion for refactoring Yatzy Kata (Java) , source here : https://github.com/emilybache/Yatzy-Refactoring-Kata
+Here's my suggestion for refactoring Yatzy Kata using some  Java 8 API , source here : https://github.com/emilybache/Yatzy-Refactoring-Kata
